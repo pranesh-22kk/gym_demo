@@ -13,7 +13,7 @@ export const offers = [
     title: "Transform Your Body",
     subtitle: "Start your fitness journey today",
     discount: "50% OFF",
-    description: "Get your first month at half price. Limited time offer for new members.",
+    description: "Get your first month at half of the price. Limited time offer for new members.",
     cta: "Claim Offer",
   },
   {
@@ -34,7 +34,7 @@ export const offers = [
   },
 ];
 
-export const packages = [
+export const  packages = [
   {
     id: 1,
     name: "Basic",
