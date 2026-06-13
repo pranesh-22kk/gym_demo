@@ -11,7 +11,7 @@ import Contact from './pages/Contact';
 
 function App() {
   return (
-    <div className="flex flex-col min-h-screen bg-gray-950 text-gray-100">
+    <div className = "flex flex-col min-h-screen bg-gray-950 text-gray-100">
       <Header />
       <main className="flex-1">
         <Home />
